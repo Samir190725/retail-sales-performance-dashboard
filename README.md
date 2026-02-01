@@ -38,3 +38,5 @@ Measured return rates by department to identify potential product or operational
 
 ## 🎯 Business Value
 This project demonstrates how retail analysts use performance metrics to support merchandising decisions, store performance reviews, pricing strategies, and operational improvements.
+## 📷 Dashboard Preview
+![Dashboard](dashboard_screenshot.png)
